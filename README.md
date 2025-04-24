@@ -32,10 +32,6 @@ Department Referrals:
 
 Insights on patient distribution across departments like Cardiology, Neurology, Orthopedics, etc.
 
-
-
-Dashboard Elements
-
 Requirements
 
 Microsoft Excel (with support for Pivot Tables and Charts)
@@ -43,16 +39,6 @@ Microsoft Excel (with support for Pivot Tables and Charts)
 No macros or external plugins required
 
 
-How to Use
-
-1. Open the Excel file.
-
-
-2. Use the left-side month selector to filter data.
-
-
-3. All charts and KPIs will update based on the selected month.
-
-
-
 Screenshot
+![Screenshot 2025-04-24 114047](https://github.com/user-attachments/assets/54f62e15-995f-4758-b7af-3a24fabca560)
+
