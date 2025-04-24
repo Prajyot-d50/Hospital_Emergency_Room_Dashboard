@@ -4,6 +4,12 @@
 
 This Excel-based dashboard provides a dynamic view of hospital emergency room data, specifically for the month of *June*. It includes real-time updates for key metrics such as patient volume, wait times, demographics, satisfaction scores, and departmental referrals.
 
+
+## Screenshot
+
+![Hospital Emergency Room Dashboard]![Screenshot 2025-04-24 114047](https://github.com/user-attachments/assets/2701e0e3-bb1c-4b0e-9f6c-7d15bcf9c965)
+
+
 ### Highlights:
 - *Total Patients:* 991
 - *Average Wait Time:* 35.54 minutes
@@ -52,15 +58,5 @@ This Excel-based dashboard provides a dynamic view of hospital emergency room da
 
 ---
 
-## Screenshot
-
-![Hospital Emergency Room Dashboard]![Screenshot 2025-04-24 114047](https://github.com/user-attachments/assets/2701e0e3-bb1c-4b0e-9f6c-7d15bcf9c965)
 
 
----
-
-## License
-
-This project is licensed under the MIT License.
-
----
