@@ -1,15 +1,4 @@
 # Hospital_Emergency_Room_Dashboard
-<p align="center">
-  <img src="path/to/logo.png" alt="Hospital Logo" width="120" height="120"/>
-</p>
-
-<h1 align="center">Hospital Emergency Room Dashboard</h1>
-
-<p align="center">
-  An interactive Excel dashboard for real-time monitoring of hospital ER performance metrics.
-</p>
-
----
 
 ## Overview
 
