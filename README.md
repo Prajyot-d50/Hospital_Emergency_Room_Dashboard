@@ -50,13 +50,6 @@ This Excel-based dashboard provides a dynamic view of hospital emergency room da
 
 ---
 
-## How to Use
-
-1. Open the Excel file.
-2. Click the month from the sidebar to filter data.
-3. Visuals and stats update automatically.
-
----
 
 
 
